@@ -22,4 +22,4 @@ This repo will contain notes for my **Code 201** course.
 
 ---
 
-*Note: these are placeholder links for now, but will be updated regularly as I create new notes*
+*Note: many of these are placeholder links for now, but will be updated regularly as I create new notes*
