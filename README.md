@@ -4,7 +4,7 @@ This repo will contain notes for my **Code 201** course.
 
 ## Table of Contents
 
-- [Notes 1](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 1 - Introductory HTML and JavaScript](https://brody-rebne.github.io/reading-notes/class-01)
 - [Notes 2](https://brody-rebne.github.io/reading-notes/notes2)
 - [Notes 3](https://brody-rebne.github.io/reading-notes/notes3)
 - [Notes 4](https://brody-rebne.github.io/reading-notes/notes4)
