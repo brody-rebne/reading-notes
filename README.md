@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/brody-rebne/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repo will contain notes for my **Code 201** course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of Contents
 
-### Markdown
+- [Notes 1](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 2](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 3](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 4](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 5](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 6](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 7](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 8](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 9](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 10](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 11](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 12](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 13](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 14](https://brody-rebne.github.io/reading-notes/notes1)
+- [Notes 15](https://brody-rebne.github.io/reading-notes/notes1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brody-rebne/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Note: these are placeholder links for now, but will be updated regularly as I create new notes*
