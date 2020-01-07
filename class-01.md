@@ -24,7 +24,7 @@ The most recent version of the HTML language added a number of semantic tags tha
               <li><a></a></li>
             </ul>
           </nav>
-        </header
+        </header>
       </article>
     </section>
   </body>
