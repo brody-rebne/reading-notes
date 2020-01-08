@@ -7,7 +7,7 @@ Many of these can and should be done via CSS styling instead, but a few, such as
 
 ## Introducing CSS
 
-CSS provides the visual styling for web content. It is based around a simple syntax where an HTML tag, class, or id is referenced as the **selector**, and then any number of **declarations** are made, where different visual properties of the selector are assigned **values**. The simple CSS snippet below gives all HTML elements with a `<p>` tag the text color blue:
+CSS provides the visual styling for web content. It is based around a simple syntax where an HTML tag, class, or id is referenced as the **selector**, and then any number of **declarations** are made, where different visual **properties** of the selector are assigned **values**. The simple CSS snippet below gives all HTML elements with a `<p>` tag the text color blue:
 
 ```css
 p {
