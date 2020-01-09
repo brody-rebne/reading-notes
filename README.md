@@ -7,7 +7,7 @@ This repo will contain notes for my **Code 201** course.
 - [Notes 1 - Introductory HTML and JavaScript](class-01.md)
 - [Notes 2 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 - [Notes 3 - HTML Lists, CSS Boxes, and JS Control Flow](class-03.md)
-- [Notes 4](class-04)
+- [Notes 4 - HTML Links, CSS Layout, JS Functions](class-04.md)
 - [Notes 5](class-05)
 - [Notes 6](class-06)
 - [Notes 7](class-07)
