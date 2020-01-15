@@ -9,7 +9,7 @@ The parameters they take are usually assigned to property values of the object t
 A JS object:
 
 ```js
-var humanN = {
+var james = {
   name: 'James',
   height: 12,
   children: ['Lela', 'Jacqueline'],
@@ -32,6 +32,8 @@ function Human(name, height, childrenArray) {
     console.log(`you asked me to print ${words}`);
   }
 }
+
+var james = new Human('James', 12, ['Lela', 'Jacqueline']);
 ```
 
 The use of `this.property` is to specify that you are setting values for properties of the object created. Equals signs and semicolons are used instead of colons and commas. The constructor name is always capitalized to easily identify what type of function it is.
@@ -53,6 +55,8 @@ function Human(name, height, childrenArray) {
 Human.prototype.printWords(words) {
   console.log(`you asked me to print ${words}`);
 }
+
+var james = new Human('James', 12, ['Lela', 'Jacqueline']);
 ```
 
-This prototype applies to any object created with `Human()` and can be called with `human.printWords('blahblahblah');` just like it could in the first example's object.
+This prototype applies to any object created with `Human()` and can be called with `james.printWords('blahblahblah');` just like it could in the first example's object.
