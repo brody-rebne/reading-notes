@@ -10,7 +10,7 @@ This repo will contain notes for my **Code 201** course.
 - [Notes 4 - HTML Links, CSS Layout, JS Functions](class-04.md)
 - [Notes 5 - HTML Images, CSS Color & Text](class-05)
 - [Notes 6 - JS Object Literals; The DOM](class-06)
-- [Notes 7](class-07)
+- [Notes 7 - Constructors and Prototype Functions](class-07)
 - [Notes 8](class-08)
 - [Notes 9](class-09)
 - [Notes 10](class-10)
