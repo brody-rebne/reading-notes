@@ -1,7 +1,5 @@
 # Error Handling & Debugging
 
-## Error Handling
-
 JavaScript executes non-linearly, but with a easily traceable order of execution. Active code, like functions or conditionally executed logic, will only produce errors once it's called. Errors often arise when code calls on variables or functions that aren't defined yet, or defined within its scope.
 
 When you get an error, it will show an error object in the console describing the type of error, helping you figure out if the issue is with syntax, invalid data types, or unknown variables. The console can usually be accessed from within your text editor, but is often better to view from your browser debugger. The error will show you a line number and (if possible) the specific code that is causing the issue. This should be enough to trace back the issue to whatever piece of code is the root of the problem.
