@@ -14,7 +14,7 @@ This repo will contain notes for my **Code 201** course.
 - [Notes 8](class-08)
 - [Notes 9](class-09)
 - [Notes 10 - Error Handling and Debugging](class-10.md)
-- [Notes 11](class-11)
+- [Notes 11 - Assorted Topics](class-11.md)
 - [Notes 12](class-12)
 - [Notes 13](class-13)
 - [Notes 14](class-14)
